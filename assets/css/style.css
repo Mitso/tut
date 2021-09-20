@@ -1,0 +1,79 @@
+html,
+body {
+  position: relative;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+}
+
+
+.intro {
+  position: relative;
+  text-align: center;
+}
+
+.title {
+  font-size: 34px;
+}
+
+.subtitle {
+  font-size: 16px;
+}
+
+.footnote {
+  font-size: 10px;
+}
+
+.label {
+  font-size: 14px;
+  font-style: italic;
+}
+
+.stockList {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+.stockList li {
+  margin: 5px 10px 0;
+}
+
+.small {
+  font-size: 12px;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.product {
+  overflow: auto;
+  position: relative;
+}
+.product__inner {
+  align-items: center;
+  display: flex;
+  margin: 0 auto;
+  justify-content: center;
+  width: 600px;
+}
+
+.product__thumbnail {
+  width: 55%;
+}
+.product__content {
+  margin-left: 5%;
+  width: 40%;
+}
+
+.people {
+  margin: 20px auto 10px;
+  text-align: center;
+  width: 600px;
+}
+.people__title {
+  display: inline;
+}
+.people__label {
+  display: inline-block;
+  padding: 0 10px 0 0;
+}

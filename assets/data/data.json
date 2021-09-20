@@ -1,0 +1,65 @@
+{
+  "results":[
+    {
+      "gender":"male",
+      "name": {
+        "title":"Mr",
+        "first":"George",
+        "last":"Wang"
+        },
+      "location": {
+        "street": {
+          "number":149,
+          "name":"Pakowhai Road"
+        },
+        "city":"Lower Hutt",
+        "state":"Marlborough",
+        "country":"New Zealand",
+        "postcode":30812,
+        "coordinates": {
+          "latitude":"60.5850",
+          "longitude":"-170.4874"
+          },
+          "timezone": {
+            "offset":"+9:00",
+            "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+            }
+      },
+    "email":"george.wang@example.com",
+    "login": {
+      "uuid":"6dd0a663-fe4b-439d-820d-a78a473d3b18",
+      "username":"beautifulsnake668",
+      "password":"blowjob",
+      "salt":"03rUnM1q",
+      "md5":"0d375953e3f6f5514694ab1f307c8473",
+      "sha1":"d0f5ec7a7a515d8df27a53e7dd202d89fc0843f2",
+      "sha256":"6a1aa5aacdb644371f879273501f855ed8d9482f7c96fb09107c62346f578f35"
+    },
+    "dob": {
+      "date": "1968-06-22T16:51:20.328Z",
+      "age":52
+    },
+    "registered": {
+      "date":"2011-03-13T01:13:56.175Z",
+      "age":9
+    },
+    "phone":"(242)-827-1501",
+    "cell":"(392)-966-2790",
+    "id":{
+      "name":"",
+      "value":null
+      },
+    "picture":{
+      "large":"https://randomuser.me/api/portraits/men/64.jpg",
+      "medium":"https://randomuser.me/api/portraits/med/men/64.jpg",
+      "thumbnail":"https://randomuser.me/api/portraits/thumb/men/64.jpg"
+    },
+    "nat":"NZ"
+  }],
+  "info": {
+    "seed":"31665b3cad0bfe09",
+    "results":1,
+    "page":1,
+    "version":"1.3"
+  }
+}
